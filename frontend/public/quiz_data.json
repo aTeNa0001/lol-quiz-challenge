@@ -1,0 +1,13 @@
+[
+    {
+      "question": "このチャンピオンの名前は？",
+      "choices": ["Aatrox", "Ahri", "Akali", "Alistar"],
+      "answer": "Ahri"
+    },
+    {
+      "question": "LoLのゲームジャンルは？",
+      "choices": ["FPS", "MOBA", "RPG", "RTS"],
+      "answer": "MOBA"
+    }
+  ]
+  
